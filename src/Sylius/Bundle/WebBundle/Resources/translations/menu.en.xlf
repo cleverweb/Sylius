@@ -15,7 +15,7 @@
         <target>Countries</target>
       </trans-unit>
       <trans-unit id="8c5b50399905da82f9f4c3f91c40b717" resname="sylius.backend.menu.main.customer">
-        <source>sylius.backend.menu.main.customer</source>
+        <source>sylius.backend.menu.main.customers</source>
         <target>Customers</target>
       </trans-unit>
       <trans-unit id="bd5421cfee1b38c03bddcd2612e5eb65" resname="sylius.backend.menu.main.dashboard">
