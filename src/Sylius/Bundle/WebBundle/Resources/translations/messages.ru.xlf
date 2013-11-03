@@ -200,7 +200,7 @@
       </trans-unit>
       <trans-unit id="bbcea09626f41ce367788861467aff0a" resname="sylius.backend.dashboard.header">
         <source>sylius.backend.dashboard.header</source>
-        <target>Административная панель</target>
+        <target>Administration dashboard</target>
       </trans-unit>
       <trans-unit id="fe7d02e958e8610f71e98e61c35aa2ec" resname="sylius.backend.dashboard.orders">
         <source>sylius.backend.dashboard.orders</source>
@@ -212,35 +212,35 @@
       </trans-unit>
       <trans-unit id="e784f04ac63b827f80c224208db56fcc" resname="sylius.backend.dashboard.subheader">
         <source>sylius.backend.dashboard.subheader</source>
-        <target>Обзор вашего магазина</target>
+        <target>Overview of your store</target>
       </trans-unit>
       <trans-unit id="88048c16fdb4816785b63624719c14da" resname="sylius.backend.logout">
         <source>sylius.backend.logout</source>
-        <target>Выход</target>
+        <target>sylius.backend.logout</target>
       </trans-unit>
       <trans-unit id="8e1945174a926f8948ff52b4930d43e2" resname="sylius.backend.quick_links.add_product">
         <source>sylius.backend.quick_links.add_product</source>
-        <target>Добавить товар</target>
+        <target>sylius.backend.quick_links.add_product</target>
       </trans-unit>
       <trans-unit id="bcaf0c6ab5fcd4265e16315de5d04c71" resname="sylius.backend.quick_links.orders">
         <source>sylius.backend.quick_links.orders</source>
-        <target>Заказы</target>
+        <target>sylius.backend.quick_links.orders</target>
       </trans-unit>
       <trans-unit id="2c1f67e5539dc78af7f57cc2281a25c5" resname="sylius.backend.quick_links.products">
         <source>sylius.backend.quick_links.products</source>
-        <target>Товары</target>
+        <target>sylius.backend.quick_links.products</target>
       </trans-unit>
       <trans-unit id="63121b09a345a806511cd6496887054c" resname="sylius.backend.quick_links.users">
         <source>sylius.backend.quick_links.users</source>
-        <target>Пользователи</target>
+        <target>sylius.backend.quick_links.users</target>
       </trans-unit>
       <trans-unit id="0858703b722c491a68ddc36b0ef4612d" resname="sylius.backend.statistics">
         <source>sylius.backend.statistics</source>
-        <target>Статистика</target>
+        <target>sylius.backend.statistics</target>
       </trans-unit>
       <trans-unit id="53a5c74b01f3d38399a0fc2a86b66d89" resname="sylius.backend.statistics.orders_this_month">
         <source>sylius.backend.statistics.orders_this_month</source>
-        <target>Заказов в этом месяце</target>
+        <target>sylius.backend.statistics.orders_this_month</target>
       </trans-unit>
       <trans-unit id="a29196b0ea143d08b2a062c7ac870c6e" resname="sylius.backend.statistics.registrations_this_month">
         <source>sylius.backend.statistics.registrations_this_month</source>
@@ -2030,17 +2030,13 @@
         <source>sylius.variant.price</source>
         <target>Price</target>
       </trans-unit>
-      <trans-unit id="44dbe7f496bf7362d917fac33bd5b5fc" resname="sylius.variant.sku">
-        <source>sylius.variant.sku</source>
-        <target>Артикул</target>
-      </trans-unit>
       <trans-unit id="4a8ed0575bd0bd7c232e9ba37e8c17a3" resname="sylius.variant.stock">
         <source>sylius.variant.stock</source>
-        <target>Наличие</target>
+        <target>Current stock</target>
       </trans-unit>
       <trans-unit id="6860a669917a3b8c316ca41afc192fbd" resname="sylius.variant.update_header">
         <source>sylius.variant.update_header</source>
-        <target>Редактирование вариантов</target>
+        <target>Editing variant</target>
       </trans-unit>
       <trans-unit id="e5a4711d61ec8c3eef696dfa715c14e6" resname="sylius.yes">
         <source>sylius.yes</source>
